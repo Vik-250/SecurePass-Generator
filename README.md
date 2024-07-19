@@ -19,5 +19,5 @@ You can see a live demo of the app https://vik-250.github.io/SecurePass-Generato
 To run this app locally, clone the repository and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/your-username/password-generator-app.git
+git clone https://github.com/Vik-250/SecurePass-Generator.git
 cd password-generator-app
